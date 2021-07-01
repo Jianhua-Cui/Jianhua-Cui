@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jianhua-Cui
-- 👀 I’m interested in nothing.
+- 👀 I’m interested in pet rabbits.
 - 🌱 I’m currently learning Caffe & Object Detection.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email cui1651088398@163.com
